@@ -1,4 +1,4 @@
-# mathpuzzles
+#mathpuzzles
 ###### (university project)
 
 A maths puzzle is a square grid of squares, each to be filled in with
