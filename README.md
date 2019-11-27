@@ -1,4 +1,5 @@
 # mathpuzzles
+###### (university project)
 
 A maths puzzle is a square grid of squares, each to be filled in with
 a single digit 1–9 (zero is not permitted) satisfying these 3 constraints:
